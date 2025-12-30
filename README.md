@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">💻 Portfolio → https://alan-fiig.github.io/portfolio</p>
+<p align="left">💻 Portfolio → https://alan-fiig.github.io/portfolio/en</p>
 
 ###
 
